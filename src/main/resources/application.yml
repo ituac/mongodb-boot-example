@@ -1,0 +1,5 @@
+server:  port: 8087  servlet:    context-path: /mongodb
+spring: 
+  data:
+    mongodb:
+      uri: mongodb://39.100.132.80/mongodb_example
